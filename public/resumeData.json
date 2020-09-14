@@ -1,0 +1,103 @@
+{
+  "main": {
+    "name": "Ramu Goswami",
+    "occupation": "ReactJS Developer",
+    "description": "Full Stack React developers",
+    "image": "img-2.jpg",
+    "bio": "My name is Ramu Goswami, I'm a Full Stack ReactJS Developer. Currently I'm working as a freelancer ",
+    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
+    "email": "ramugoswami027@gmail.com",
+    "phone": "+91 7262061050, +91 9939440327",
+    "address": {
+      "street": "Bokaro steel city",
+      "city": "Bokaro",
+      "state": "Jharkhand",
+      "zip": "829301"
+    },
+    "website": "",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/ramu.goswami.73/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ramu-goswami-sahil-3ba62b69/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/ramu.goswami5/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/sahil067",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "AISECT University Hazaribagh ",
+        "degree": "Beachlor of Computer Science",
+        "graduated": "june 2021",
+        "description": "Graduated with Distinction"
+      }
+    ],
+    "work": [
+      {
+        "company": "Self employe as a web developer",
+        "title": "web developer",
+        "years": "feb. 2020 - Present",
+        "description": "Making ecommerce and web applications."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "70%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "50%"
+      },
+      {
+        "name": "python",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook-clone.png"
+      },
+      {
+        "title": "Home shoping mart",
+        "category": "this the groccery website built with html,css,javascript",
+        "image": "homeshoppingmart.PNG"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
